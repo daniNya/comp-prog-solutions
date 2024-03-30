@@ -26,4 +26,9 @@ Thought process:
 4. Conclude that +2 must be part of the formula
 5. Try doing some division and addition mentally for some test cases with the 3 given numbers
 6. Find out that m/a + m/b + 2 seems to be correct
+
+Results:
+ACCEPTED
+Time - 93 ms
+Memory - 0 KB
 */
