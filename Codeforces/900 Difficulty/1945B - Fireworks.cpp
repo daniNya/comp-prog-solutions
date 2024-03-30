@@ -19,7 +19,7 @@ int main() {
 }
 
 /*
-Thought process:
+Thought Process:
 1. Find a pattern hidden among these 3 numbers and try to come up with a general formula
 2. Notice the first test case, where m is smaller than a and b, but still gives the answer of 2
 3. Notice the last test case, where the answer has a 2 in the ones place
